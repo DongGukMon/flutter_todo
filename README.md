@@ -1,6 +1,6 @@
 # flutter_todo
 
-flutter를 입문 프로젝트로 만든 Todo list 앱입니다.
+flutter 입문 프로젝트로 만든 Todo list 앱입니다.
 
 ## 기술 스택
 - flutter
