@@ -7,7 +7,7 @@ flutter 입문 프로젝트로 만든 Todo list 앱입니다.
 - dart
 
 ## 구현 범위
-- ListView로 ToTo List 구현
+- ListView로 ToDo List 구현
 - ListView 정렬 규칙 선택: [최신순, 진행도순] (바텀시트 활용)
 - list 추가 및 삭제 모달 구현(dialog 활용)
 - 텍스트 입력 필드 (글자수 제한 조건 추가)
